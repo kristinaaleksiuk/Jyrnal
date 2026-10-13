@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Jyrnal"
 include ':app'
+include ':lib'
